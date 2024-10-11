@@ -1,5 +1,7 @@
 # Welcome to [DSA-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉|  🚨 Must Read: Eligibility Criteria below 🚫
 
+**You must star ⭐ the repository first**
+
 ## ⭐ How to get started with open source?
 
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/.github/Assests/isometric.png" height="290px" align="right"/>
