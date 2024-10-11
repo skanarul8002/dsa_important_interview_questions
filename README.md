@@ -1,6 +1,4 @@
-# Welcome to [DSA-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉
-
-Thank you for checking out this repository! We're excited to have you contribute to Hacktoberfest 2024. Before you get started, please take a moment to read the following rules and guidelines to ensure a smooth contribution process.
+# Welcome to [DSA-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉| ## 🚨 Must Read: Eligibility Criteria below 🚫
 
 ## ⭐ How to get started with open source?
 
@@ -101,29 +99,26 @@ git push origin YourBranchName
 ## ⭐ Supported Languages 💻
 
 #### Python
-
 #### Java
-
 #### C++
-
 #### C
-
 #### JavaScrip
 
 ## ⭐ Eligibility Criteria 🚫
 
 - **⚠️ Duplicate programming questions will not be accepted.**
+- **Must follow the file organization structure** while adding your solutions.
 - **Star and Fork the Repository**:
   - [dsa_important_interview_questions Repository](https://github.com/skanarul8002/dsa_important_interview_questions)
-- **You must star ⭐ the repository first**
-  **Happy coding and happy Hacktoberfest!** 👨‍💻👩‍💻🦥  
-   Fork the repo and start contributing today! Let's build something amazing together.🚀 -**📂 How to Keep Your Files Organized:**
+- **You must star ⭐ the repository first** before contributing.
 
-        1. **Name your files** using the following format: `<question_name>.<extension>`. For example, if you solve "Two Sum" in Java, the file name
+## ⭐ How to Keep Your Files Organized 📂
+  
+  1. **Name your files** using the following format: `<question_name>.<extension>`. For example, if you solve "Two Sum" in Java, the file name
         should be `TwoSum.java`.
-        2. **Include both** the source code file and its compiled file or a snapshot of the program's successful run (e.g., `TwoSum.class` or a
+  2. **Include both** the source code file and its compiled file or a snapshot of the program's successful run (e.g., `TwoSum.class` or a
         screenshot of the output).
-        3. **Organize your files** by placing them in the appropriate language folder (e.g., `java`, `python`).
+  3. **Organize your files** by placing them in the appropriate language folder (e.g., `java`, `python`).
               - Within the language folder, **create a subfolder** with your **GitHub username** (e.g., `java/skanarul8002`).
               - Place both your source code and additional files (e.g., compiled `.class` files or screenshots) in your created subfolder.
 
@@ -152,6 +147,8 @@ These resources are essential for your journey:
 </a>
 
 :tada: :confetti_ball: **Happy Contributing!** :confetti_ball: :tada:
+
+   # Happy coding and happy Hacktoberfest!👨‍💻👩‍💻🦥  
 
 ```
      _____ _                 _     __   __
