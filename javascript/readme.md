@@ -1,0 +1,1 @@
+only for javascript code
