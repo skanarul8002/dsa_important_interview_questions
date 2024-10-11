@@ -1,4 +1,4 @@
-# Welcome to [DSA-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉| ## 🚨 Must Read: Eligibility Criteria below 🚫
+# Welcome to [DSA-hacktoberfest24] - Hacktoberfest 2024 🐙🦥🎉|  🚨 Must Read: Eligibility Criteria below 🚫
 
 ## ⭐ How to get started with open source?
 
