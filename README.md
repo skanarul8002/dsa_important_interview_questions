@@ -73,7 +73,7 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** You've made your first contribution to [**dsa_important_interview_questions**](https://github.com/skanarul8002/dsa_important_interview_questions).
 
-# How to Contribute
+## ⭐How to Contribute
 
 1. **Hacktoberfest Dates:**
 
@@ -98,7 +98,7 @@ git push origin YourBranchName
 5. **Valid Contributions:**
    - Ensure that your contribution adds good and optimized Solution. **You must star ⭐ the repository first**
 
-# 💻 Supported Languages
+## ⭐ Supported Languages 💻
 
 #### Python
 
@@ -110,7 +110,7 @@ git push origin YourBranchName
 
 #### JavaScrip
 
-# Eligibility Criteria 🚫
+## ⭐ Eligibility Criteria 🚫
 
 - **⚠️ Duplicate programming questions will not be accepted.**
 - **Star and Fork the Repository**:
@@ -136,7 +136,7 @@ git push origin YourBranchName
                            ├── TwoSum.class or proof of runs
            ```
 
-### Helpful Resources 🛠️
+## ⭐ Helpful Resources 🛠️
 
 These resources are essential for your journey:
 
@@ -145,7 +145,7 @@ These resources are essential for your journey:
 
 ---
 
-### Awesome Contributors 🌟
+## ⭐ Awesome Contributors 
 
 <a href="https://github.com/skanarul8002/dsa_important_interview_questions/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=skanarul8002/dsa_important_interview_questions" />
